@@ -13,9 +13,9 @@
   "author": "softwarefactory-dev@redhat.com",
   "license": "Apache-2.0",
   "devDependencies": {
-    "@glennsl/bs-jest": "^0.5.1",
-    "bs-platform": "^8.2.0",
-    "jest": "^26.5.0"
+    "@glennsl/bs-jest": "^0.7.0",
+    "bs-platform": "^9.0.2",
+    "jest": "^28.1.0"
   },
   "bugs": {
     "url": "https://github.com/softwarefactory-project/re-sf/issues"
@@ -23,8 +23,8 @@
   "homepage": "https://github.com/softwarefactory-project/re-sf#readme",
   "files": ["src/*.re", "bsconfig.json"],
   "dependencies": {
-    "bs-platform": "^8.2.0",
-    "decco": "^1.3.0"
+    "bs-platform": "^9.0.2",
+    "decco": "^1.5.0"
   },
   "main": "index.js"
 }
